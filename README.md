@@ -6,7 +6,7 @@ Full-custom layout of a CMOS inverter in the TSMC N65 PDK using Cadence Virtuoso
 
 **Part 1 – Inverter design & verification (`inv01`)**
 - Schematic with `pch_lvt` / `nch_lvt` devices
-- Layout in Layout XL, optimized for area, with substrate/N-well straps (M1+PP for NMOS, M1+NP+NW for PMOS) for latch-up protection
+- Layout in Layout XL, optimized for area, with substrate/N-well straps (M1+PP for NMOS, M1+NP+NW for PMOS) 
 - DRC and LVS clean-up, with final reports
 
 **Part 2 – Layer analysis**
