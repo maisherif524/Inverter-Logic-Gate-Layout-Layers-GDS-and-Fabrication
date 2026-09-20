@@ -19,7 +19,7 @@ Full-custom layout of a CMOS inverter in the TSMC N65 PDK using Cadence Virtuoso
 
 ## Repository structure
 - `schematics/` – schematic screenshots
-- `layout/` – layout screenshots (pre-/post-verification)
+- `layout/` – layout screenshots 
 - `reports/` – DRC summary and LVS reports
 - `layer_map/` – original and modified layer map files
 - `report.pdf` – full lab report
